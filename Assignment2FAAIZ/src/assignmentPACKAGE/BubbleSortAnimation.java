@@ -1,8 +1,6 @@
 package assignmentPACKAGE;
 
 // FAAIZ ABDULLAH
-// STUDENT NUMBER: 100417715
-// CPSC 2302
 
 
 import javax.swing.*;
